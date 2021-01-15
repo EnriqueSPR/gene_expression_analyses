@@ -1,3 +1,8 @@
+
+# Gene expression analyses in Arabidopsis using Machine Learning
+
+[**See full project code here.**](https://nbviewer.jupyter.org/github/EnriqueSPR/Gene_expression_analyses/blob/main/analyse_codon_bias.ipynb)
+
 ### Framing the problem: 
 
 * The unequal utilization of synonymous codons (CUB) affects numerous cellular processes i.e. translation rates, protein folding and mRNA degradation [[Ref](https://pubmed.ncbi.nlm.nih.gov/29386398/)].
