@@ -3,6 +3,12 @@
 
 [**See full project code here.**](https://nbviewer.jupyter.org/github/EnriqueSPR/Gene_expression_analyses/blob/main/analyse_codon_bias.ipynb)
 
+### Code and Resources Used
+
+**Python Version**: 3.7
+
+**Packages**: pandas, numpy, datetime, os, glob, gc, sklearn, matplotlib, seaborn, PIL, plotly.express, bio, scipy, tensorflow, keras, pickle and json.
+
 ### Framing the problem: 
 
 * The unequal utilization of synonymous codons (CUB) affects numerous cellular processes i.e. translation rates, protein folding and mRNA degradation [[Ref](https://pubmed.ncbi.nlm.nih.gov/29386398/)].
