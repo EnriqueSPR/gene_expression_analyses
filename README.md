@@ -128,7 +128,7 @@ Two main approaches were taken to better undestand the role of CUB on the transc
 
 <img src="figures/Pair-kde.png" width="800"/>
 
-* **Correlation Plots**:
+* **Correlation Plots of Low (yellow), Intermediate(blue) and Highly(red) expressed genes**:
 
 <img src="figures/correlation_comparisson.png" width="700"/>
 	
