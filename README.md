@@ -30,31 +30,31 @@
 
 Two main approaches were taken to better undestand the role of CUB on the transcription level:
 
-* **Data Analyses, feature selection and and Machine Learnig**: 
+* **1. Data Analyses, feature selection and and Machine Learnig**: 
 
 > What features can explain better the observed differences in the transcription level?. 
 
 > Here we hypothesize that the CUB plays an important role in transcription levels.
 
-1) Characterization of codon usage -> calculate the CUB metrics.
+1.1 Characterization of codon usage -> calculate the CUB metrics.
 
-2) Exploratory Data Analyses and Feature selection.
+1.2 Exploratory Data Analyses and Feature selection.
 
-3) A traditional machine learning approach.
+1.3 A traditional machine learning approach.
     
-* **Deep Learning Approach:**
+* **2. Deep Learning Approach:**
 
 > In this section I used a CNN to predict Max TPM from one_hot_encoded sequeces in order to study which sequence has more predictive power.
 
 > The hyphothesis is that the codon sequence largely determines the transcription level of a gene.
 
-1) Train a CNN to predict transcription levels from codon one_hot encoded sequences (nucleotides, codons and aminoacids).
+2.1 Train a CNN to predict transcription levels from codon one_hot encoded sequences (nucleotides, codons and aminoacids).
 
-2) Compare model performance
+2.2 Compare model performance
     
-* **Conclussions**:
+* **3. Conclussions**:
 
-* **Future Directions**:
+* **4. Future Directions**:
 
 -----
 
