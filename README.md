@@ -1,5 +1,5 @@
 
-# Gene expression analyses in Arabidopsis using Machine Learning
+# Gene expression analyses in Arabidopsis using Machine Learning and Deep Learning
 
 [**See full project code here.**](https://nbviewer.jupyter.org/github/EnriqueSPR/Gene_expression_analyses/blob/main/analyse_codon_bias.ipynb)
 
