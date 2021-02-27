@@ -36,11 +36,11 @@ Two main approaches were taken to better undestand the role of CUB on the transc
 
 > Here we hypothesize that the CUB plays an important role in transcription levels.
 
-1.1 Characterization of codon usage -> calculate the CUB metrics.
+	1.1 Characterization of codon usage -> calculate the CUB metrics.
 
-1.2 Exploratory Data Analyses and Feature selection.
+	1.2 Exploratory Data Analyses and Feature selection.
 
-1.3 A traditional machine learning approach.
+	1.3 A traditional machine learning approach.
     
 * **2. Deep Learning Approach:**
 
@@ -48,10 +48,10 @@ Two main approaches were taken to better undestand the role of CUB on the transc
 
 > The hyphothesis is that the codon sequence largely determines the transcription level of a gene.
 
-2.1 Train a CNN to predict transcription levels from codon one_hot encoded sequences (nucleotides, codons and aminoacids).
+	2.1 Train a CNN to predict transcription levels from codon one_hot encoded sequences (nucleotides, codons and aminoacids).
 
-2.2 Compare model performance
-    
+	2.2 Compare model performance
+
 * **3. Conclussions**:
 
 * **4. Future Directions**:
