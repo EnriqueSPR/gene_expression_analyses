@@ -140,6 +140,8 @@ Two main approaches were taken to better undestand the role of CUB on the transc
 
 * **4.2 Model Performance on test set**:
 
+	* **mse: 0.590** 
+	* **mae:  0.586**
 <img src="figures/ETR_predictions_test.png" width="400"/>
 
 
